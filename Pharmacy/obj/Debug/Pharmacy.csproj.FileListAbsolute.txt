@@ -1,0 +1,89 @@
+E:\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+E:\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+I:\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\App_Data\Database1.mdf
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\Farjana Yeasmin\Desktop\ggggggggggggggggg\Pharmacyfffffffffff\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\bin\Debug\App_Data\R33Pharmacy.mdf
+C:\Users\Farjana Yeasmin\Desktop\Pharmacy Management _with_ADO\Pharmacy\bin\Debug\App_Data\R33Pharmacy_log.ldf
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.Accounts.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.AferLogin.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.HRM.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.SalesDetails.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\bin\Debug\App_Data\Pharmachy.mdf
+C:\Users\Dell\Desktop\Pharmacy_management_Ado.net\Pharmacy\bin\Debug\App_Data\Pharmachy_log.ldf
